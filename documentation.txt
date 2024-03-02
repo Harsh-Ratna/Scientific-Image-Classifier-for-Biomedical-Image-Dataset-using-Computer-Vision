@@ -27,15 +27,6 @@ Combining the BioFors Dataset with Graphs Dataset, COVID-19 Radiography Database
  
 
 
-. 
-Code Snippets
-
-After applying watershed thresholding:
-  
-
-
-
-
 
 
 
