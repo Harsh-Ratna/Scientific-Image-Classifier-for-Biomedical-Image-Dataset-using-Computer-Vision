@@ -16,8 +16,8 @@ The zip file contains 4 notebooks, in order of,
  this model achieves the best validation accuracy of 96%.
 
 **Dataset Information - **
-We obtained the base dataset from this repo https://github.com/vimal-isi-edu/BioFors containing 4 classes namely 'Microscopy', 'Macroscopy', 'Blob/Gel', and 'FACS'.
-we added images of X-Ray scans, https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
-CT Scan images https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset?select=COVID
-and a negative class containing graphs, charts, tables etc. https://www.kaggle.com/datasets/sunedition/graphs-dataset/data
+* We obtained the base dataset from this repo https://github.com/vimal-isi-edu/BioFors containing 4 classes namely 'Microscopy', 'Macroscopy', 'Blob/Gel', and 'FACS'.
+* we added images of X-Ray scans, https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
+* CT Scan images https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset?select=COVID
+* A negative class containing graphs, charts, tables etc. https://www.kaggle.com/datasets/sunedition/graphs-dataset/data
 
