@@ -15,7 +15,7 @@ The zip file contains 4 notebooks, in order of,
 4) VGG16 Transfer learning.ipynb
  this model achieves the best validation accuracy of 96%.
 
-**Dataset Information - **
+**Dataset Information -**
 * We obtained the base dataset from this repo https://github.com/vimal-isi-edu/BioFors containing 4 classes namely 'Microscopy', 'Macroscopy', 'Blob/Gel', and 'FACS'.
 * we added images of X-Ray scans, https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database
 * CT Scan images https://www.kaggle.com/datasets/plameneduardo/sarscov2-ctscan-dataset?select=COVID
