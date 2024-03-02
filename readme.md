@@ -2,7 +2,7 @@ Team Dataverse- Scientific Image Classifier
 --------------------------------------------
 please open team dataverse final ppt to get an idea of our approach.
 
-The zip file contains 4 notebooks, in order of,
+This repository contains 4 notebooks, in order of,
 1) Data Preparation, Processing and Visualization.ipynb
 
 2) Image Enhancement (Optional).ipynb 
