@@ -12,5 +12,5 @@ The zip file contains 4 notebooks, in order of,
 3) training cnn model from scratch.ipynb
  in this notebook we implemented the cnn model from scratch and achieved a validation accuracy of 86%. 
 
-4)VGG16 Transfer learning.ipynb
+4) VGG16 Transfer learning.ipynb
  this model achieves the best validation accuracy of 96%. 
