@@ -1,6 +1,6 @@
 Team Dataverse- Scientific Image Classifier 
 --------------------------------------------
-please open team final ppt to get an idea of our approach.
+please open team dataverse final ppt to get an idea of our approach.
 
 The zip file contains 4 notebooks, in order of,
 1) Data Preparation, Processing and Visualization.ipynb
